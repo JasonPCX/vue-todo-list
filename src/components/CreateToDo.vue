@@ -102,7 +102,7 @@
         To-Do creada con éxito
       </div>
       <button
-        class="w-full text-md font-bold py-2 rounded-md text-white bg-gradient-to-r from-green-400 to-blue-500 hover:from-blue-500 hover:to-green-400 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105"
+        class="w-full text-md font-bold py-2 rounded-md text-white bg-gradient-to-r from-green-400 to-blue-500 hover:to-blue-400 hover:from-green-300 transition duration-500 ease-in-out"
         id="btn-create"
         @click="create(todo)"
       >
