@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full">
+  <div class="w-full flex flex-column justify-center align-top">
     <ToDoList></ToDoList>
   </div>
 </template>
